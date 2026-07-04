@@ -2,3 +2,7 @@
 target/
 dbt_packages/
 logs/
+# Large shapefiles
+data/raw/ca_counties/
+data/raw/*.csv
+data/processed/
