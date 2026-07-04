@@ -1,0 +1,37 @@
+[2026-06-16T16:01:35.421+0000] {local_task_job_runner.py:120} INFO - ::group::Pre task execution logs
+[2026-06-16T16:01:35.475+0000] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: ca_facility_pipeline.download_cdph_files scheduled__2026-05-01T00:00:00+00:00 [queued]>
+[2026-06-16T16:01:35.490+0000] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: ca_facility_pipeline.download_cdph_files scheduled__2026-05-01T00:00:00+00:00 [queued]>
+[2026-06-16T16:01:35.493+0000] {taskinstance.py:2306} INFO - Starting attempt 2 of 2
+[2026-06-16T16:01:35.512+0000] {taskinstance.py:2330} INFO - Executing <Task(BashOperator): download_cdph_files> on 2026-05-01 00:00:00+00:00
+[2026-06-16T16:01:35.533+0000] {standard_task_runner.py:90} INFO - Running: ['***', 'tasks', 'run', 'ca_facility_pipeline', 'download_cdph_files', 'scheduled__2026-05-01T00:00:00+00:00', '--job-id', '4', '--raw', '--subdir', 'DAGS_FOLDER/ca_facility_dag.py', '--cfg-path', '/tmp/tmp_diqspxg']
+[2026-06-16T16:01:35.539+0000] {standard_task_runner.py:91} INFO - Job 4: Subtask download_cdph_files
+[2026-06-16T16:01:35.545+0000] {logging_mixin.py:188} WARNING - /home/***/.local/lib/python3.12/site-packages/***/task/task_runner/standard_task_runner.py:61 DeprecationWarning: This process (pid=330) is multi-threaded, use of fork() may lead to deadlocks in the child.
+[2026-06-16T16:01:35.548+0000] {standard_task_runner.py:63} INFO - Started process 331 to run task
+[2026-06-16T16:01:35.642+0000] {task_command.py:426} INFO - Running <TaskInstance: ca_facility_pipeline.download_cdph_files scheduled__2026-05-01T00:00:00+00:00 [running]> on host e1fa2eb65f21
+[2026-06-16T16:01:35.796+0000] {taskinstance.py:2648} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='ca_facility_pipeline' AIRFLOW_CTX_DAG_ID='ca_facility_pipeline' AIRFLOW_CTX_TASK_ID='download_cdph_files' AIRFLOW_CTX_EXECUTION_DATE='2026-05-01T00:00:00+00:00' AIRFLOW_CTX_TRY_NUMBER='2' AIRFLOW_CTX_DAG_RUN_ID='scheduled__2026-05-01T00:00:00+00:00'
+[2026-06-16T16:01:35.799+0000] {taskinstance.py:430} INFO - ::endgroup::
+[2026-06-16T16:01:35.819+0000] {subprocess.py:63} INFO - Tmp dir root location: /tmp
+[2026-06-16T16:01:35.823+0000] {subprocess.py:75} INFO - Running command: ['/usr/bin/bash', '-c', 'cd /opt/*** && python ingestion/downloader.py']
+[2026-06-16T16:01:35.847+0000] {subprocess.py:86} INFO - Output:
+[2026-06-16T16:01:35.950+0000] {subprocess.py:93} INFO - python: can't open file '/opt/***/ingestion/downloader.py': [Errno 2] No such file or directory
+[2026-06-16T16:01:35.956+0000] {subprocess.py:97} INFO - Command exited with return code 2
+[2026-06-16T16:01:35.959+0000] {taskinstance.py:441} INFO - ::group::Post task execution logs
+[2026-06-16T16:01:35.977+0000] {taskinstance.py:2905} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/taskinstance.py", line 465, in _execute_task
+    result = _execute_callable(context=context, **execute_callable_kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/taskinstance.py", line 432, in _execute_callable
+    return execute_callable(context=context, **execute_callable_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/baseoperator.py", line 400, in wrapper
+    return func(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/operators/bash.py", line 243, in execute
+    raise AirflowException(
+airflow.exceptions.AirflowException: Bash command failed. The command returned a non-zero exit code 2.
+[2026-06-16T16:01:35.985+0000] {taskinstance.py:1206} INFO - Marking task as FAILED. dag_id=ca_facility_pipeline, task_id=download_cdph_files, run_id=scheduled__2026-05-01T00:00:00+00:00, execution_date=20260501T000000, start_date=20260616T160135, end_date=20260616T160135
+[2026-06-16T16:01:36.007+0000] {standard_task_runner.py:110} ERROR - Failed to execute job 4 for task download_cdph_files (Bash command failed. The command returned a non-zero exit code 2.; 331)
+[2026-06-16T16:01:36.048+0000] {local_task_job_runner.py:240} INFO - Task exited with return code 1
+[2026-06-16T16:01:36.087+0000] {taskinstance.py:3498} INFO - 0 downstream tasks scheduled from follow-on schedule check
+[2026-06-16T16:01:36.098+0000] {local_task_job_runner.py:222} INFO - ::endgroup::

@@ -1,0 +1,70 @@
+==================== 2026-06-13T14:00:53.245273Z | 019ec149-16e7-77c2-a841-260a1d6cd798 ====================
+14:00:53.245517 [info ]: Installing dbt project and profile setup
+14:00:53.266368 [info ]: Info Created .vscode/extensions.json with dbt extension recommendation
+14:00:53.266727 [info ]: Success Project created successfully!
+14:00:53.266890 [info ]: Info Project name: jaffle_shop
+14:00:53.267019 [info ]: Info Project directory: jaffle_shop
+14:00:53.267160 [info ]: Info Setting up your profile...
+14:00:53.267364 [info ]: Info Creating new profile...
+14:02:01.879565 [info ]: No dbt_cloud.yml found - proceeding without cloud pre-population
+14:04:28.408013 [info ]: Success Profile written to C:\Users\sushm\.dbt\profiles.yml
+14:04:28.408315 [info ]: Validating profile inputs, adapters, and connection
+
+14:04:28.408499 [info ]: dbt-core 2.0.0-alpha.1
+14:04:28.408965 [info ]: Started loading project
+14:04:28.411436 [info ]: Loading ~/.dbt/profiles.yml
+14:04:28.412305 [info ]: Finished loading project [  0.00s]
+14:04:28.412528 [error]: [InvalidConfig (dbt1005)]: The 'postgres' adapter is not yet supported by dbt Fusion. Supported adapters: snowflake, bigquery, databricks, redshift
+14:04:28.633745 [info ]: 
+==================== Execution Summary =====================
+Finished 'init' with 1 error [3m 35s]
+==================== 2026-06-13T14:04:31.540987Z | 019ec14c-6bb3-7330-ac13-2bb23f622218 ====================
+14:04:31.541132 [info ]: Installing dbt project and profile setup
+14:04:31.543537 [info ]: Warning Directory 'jaffle_shop' already exists, using 'jaffle_shop_1' instead
+14:04:31.562384 [info ]: Info Created .vscode/extensions.json with dbt extension recommendation
+14:04:31.562683 [info ]: Success Project created successfully!
+14:04:31.562842 [info ]: Info Project name: jaffle_shop_1
+14:04:31.562959 [info ]: Info Project directory: jaffle_shop_1
+14:04:31.563079 [info ]: Info Setting up your profile...
+14:04:31.563476 [info ]: Loading ~/.dbt/profiles.yml
+14:04:31.564101 [info ]: Info Creating new profile...
+14:04:34.992394 [info ]: No dbt_cloud.yml found - proceeding without cloud pre-population
+14:05:17.333126 [info ]: Success Profile written to C:\Users\sushm\.dbt\profiles.yml
+14:05:17.333538 [info ]: Validating profile inputs, adapters, and connection
+
+14:05:17.333693 [info ]: dbt-core 2.0.0-alpha.1
+14:05:17.334051 [info ]: Started loading project
+14:05:17.335501 [info ]: Loading ~/.dbt/profiles.yml
+14:05:17.336091 [info ]: Finished loading project [  0.00s]
+14:05:17.336243 [error]: [InvalidConfig (dbt1005)]: The 'postgres' adapter is not yet supported by dbt Fusion. Supported adapters: snowflake, bigquery, databricks, redshift
+14:05:17.480253 [info ]: 
+==================== Execution Summary =====================
+Finished 'init' with 1 error [45.9s]
+[0m08:17:34.098080 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001B673451550>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001B67607C410>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001B67607C2D0>]}
+
+
+============================== 08:17:34.108525 | 2524b2dd-dac8-44d3-8a7f-4fa1308b20fa ==============================
+[0m08:17:34.108525 [info ] [MainThread]: Running with dbt=1.8.2
+[0m08:17:34.109211 [debug] [MainThread]: running dbt with arguments {'printer_width': '80', 'indirect_selection': 'eager', 'log_cache_events': 'False', 'write_json': 'True', 'partial_parse': 'True', 'cache_selected_only': 'False', 'warn_error': 'None', 'debug': 'False', 'fail_fast': 'False', 'log_path': 'logs', 'profiles_dir': 'C:\\Users\\sushm\\.dbt', 'version_check': 'True', 'use_colors': 'True', 'use_experimental_parser': 'False', 'no_print': 'None', 'quiet': 'False', 'warn_error_options': 'WarnErrorOptions(include=[], exclude=[])', 'static_parser': 'True', 'invocation_command': 'dbt init ca_facility_dbt', 'log_format': 'default', 'target_path': 'None', 'introspect': 'True', 'send_anonymous_usage_stats': 'True'}
+[0m08:17:34.126588 [debug] [MainThread]: Starter project path: C:\Users\sushm\ca_facility_pipeline\venv313\Lib\site-packages\dbt\include\starter_project
+[0m08:17:34.138593 [info ] [MainThread]: 
+Your new dbt project "ca_facility_dbt" was created!
+
+For more information on how to configure the profiles.yml file,
+please consult the dbt documentation here:
+
+  https://docs.getdbt.com/docs/configure-your-profile
+
+One more thing:
+
+Need help? Don't hesitate to reach out to us via GitHub issues or on Slack:
+
+  https://community.getdbt.com/
+
+Happy modeling!
+
+[0m08:17:34.139080 [info ] [MainThread]: Setting up your profile.
+[0m08:19:13.479009 [info ] [MainThread]: Profile ca_facility_dbt written to C:\Users\sushm\.dbt\profiles.yml using target's profile_template.yml and your supplied values. Run 'dbt debug' to validate the connection.
+[0m08:19:13.480227 [debug] [MainThread]: Command `dbt init` succeeded at 08:19:13.480076 after 99.52 seconds
+[0m08:19:13.480628 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001B6777A49D0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001B6777AC5F0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001B673349F20>]}
+[0m08:19:13.481018 [debug] [MainThread]: Flushing usage events

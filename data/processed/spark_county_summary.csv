@@ -1,0 +1,883 @@
+county,facility_type,total_facilities,licensed_count,compliance_rate_pct
+alameda,COMTYC,148,0,0.0
+alameda,HHA,98,0,0.0
+alameda,SNF,72,0,0.0
+alameda,HOSPICE,51,0,0.0
+alameda,UNLICEN,35,0,0.0
+alameda,ASC,24,0,0.0
+alameda,ESRD/CDC,24,0,0.0
+alameda,ICFDDH,22,0,0.0
+alameda,GACH,18,0,0.0
+alameda,FQHC,12,0,0.0
+alameda,CLHF,9,0,0.0
+alameda,ICFDDN,9,0,0.0
+alameda,FREEC,7,0,0.0
+alameda,ESRD,7,0,0.0
+alameda,FQHC/COMTYC,7,0,0.0
+alameda,ADHC,4,0,0.0
+alameda,PSYCHC,4,0,0.0
+alameda,APH,3,0,0.0
+alameda,ASC/SURGC,2,0,0.0
+alameda,CDRH,1,0,0.0
+alameda,REHABC/CORF,1,0,0.0
+alameda,CMHC,1,0,0.0
+alameda,REHABC,1,0,0.0
+amador,HHA,3,0,0.0
+amador,COMTYC,2,0,0.0
+amador,SNF,1,0,0.0
+amador,CTC,1,0,0.0
+amador,ESRD/CDC,1,0,0.0
+amador,FQHC,1,0,0.0
+amador,GACH,1,0,0.0
+amador,RHC/OP,1,0,0.0
+amador,HOSPICE,1,0,0.0
+amador,FQHC/COMTYC,1,0,0.0
+butte,COMTYC,25,0,0.0
+butte,RHC/OP,13,0,0.0
+butte,SNF,9,0,0.0
+butte,ASC,7,0,0.0
+butte,HHA,6,0,0.0
+butte,ESRD/CDC,5,0,0.0
+butte,GACH,4,0,0.0
+butte,ICFDDN,4,0,0.0
+butte,RHC/MD,4,0,0.0
+butte,HOSPICE,3,0,0.0
+butte,ICFDDH,2,0,0.0
+butte,FQHC/COMTYC,2,0,0.0
+butte,PDHRCF,1,0,0.0
+butte,ADHC,1,0,0.0
+calaveras,COMTYC,5,0,0.0
+calaveras,RHC/OP,4,0,0.0
+calaveras,FQHC/COMTYC,2,0,0.0
+calaveras,SNF,1,0,0.0
+calaveras,GACH,1,0,0.0
+calaveras,RHC,1,0,0.0
+colusa,COMTYC,3,0,0.0
+colusa,RHC,3,0,0.0
+colusa,HHA,1,0,0.0
+colusa,SNF,1,0,0.0
+colusa,RHC/MD,1,0,0.0
+colusa,GACH,1,0,0.0
+colusa,HOSPICE,1,0,0.0
+contra costa,HHA,51,0,0.0
+contra costa,COMTYC,39,0,0.0
+contra costa,HOSPICE,32,0,0.0
+contra costa,UNLICEN,31,0,0.0
+contra costa,SNF,29,0,0.0
+contra costa,ASC,23,0,0.0
+contra costa,ESRD/CDC,17,0,0.0
+contra costa,ICFDDH,16,0,0.0
+contra costa,ICFDDN,13,0,0.0
+contra costa,GACH,9,0,0.0
+contra costa,FREEC,4,0,0.0
+contra costa,ESRD,3,0,0.0
+contra costa,FQHC,3,0,0.0
+contra costa,ADHC,2,0,0.0
+contra costa,CLHF,2,0,0.0
+contra costa,APH,2,0,0.0
+contra costa,OPT/SP,2,0,0.0
+contra costa,CDC,1,0,0.0
+contra costa,PSYCHC,1,0,0.0
+contra costa,HOFA,1,0,0.0
+contra costa,FQHC/COMTYC,1,0,0.0
+curry,HHA,1,0,0.0
+del norte,COMTYC,10,0,0.0
+del norte,HOSPICE,2,0,0.0
+del norte,FQHC,2,0,0.0
+del norte,RHC,2,0,0.0
+del norte,GACH,1,0,0.0
+del norte,HHA,1,0,0.0
+del norte,SNF,1,0,0.0
+del norte,CTC,1,0,0.0
+del norte,ESRD/CDC,1,0,0.0
+del norte,PPSREHB,1,0,0.0
+el dorado,COMTYC,10,0,0.0
+el dorado,HOSPICE,4,0,0.0
+el dorado,SNF,4,0,0.0
+el dorado,HHA,4,0,0.0
+el dorado,RHC/OP,3,0,0.0
+el dorado,GACH,2,0,0.0
+el dorado,ASC,2,0,0.0
+el dorado,RHC/MD,1,0,0.0
+el dorado,ESRD/CDC,1,0,0.0
+el dorado,OPT/SP,1,0,0.0
+fresno,COMTYC,92,0,0.0
+fresno,HHA,58,0,0.0
+fresno,SNF,33,0,0.0
+fresno,HOSPICE,31,0,0.0
+fresno,ASC,24,0,0.0
+fresno,RHC/OP,21,0,0.0
+fresno,ICFDDN,15,0,0.0
+fresno,ESRD/CDC,15,0,0.0
+fresno,ICFDDH,14,0,0.0
+fresno,GACH,10,0,0.0
+fresno,FQHC/COMTYC,9,0,0.0
+fresno,UNLICEN,8,0,0.0
+fresno,CLHF,8,0,0.0
+fresno,ADHC,7,0,0.0
+fresno,RHC/COMTYC,6,0,0.0
+fresno,RHC/MD,6,0,0.0
+fresno,ESRD,5,0,0.0
+fresno,RHC,4,0,0.0
+fresno,APH,2,0,0.0
+fresno,PDHRCF,2,0,0.0
+fresno,HOFA,1,0,0.0
+fresno,ICF,1,0,0.0
+fresno,ASC/SURGC,1,0,0.0
+fresno,SURGC,1,0,0.0
+fresno,ICFDDCN,1,0,0.0
+fresno,FREEC,1,0,0.0
+fresno,FQHC,1,0,0.0
+glenn,COMTYC,4,0,0.0
+glenn,RHC/OP,3,0,0.0
+glenn,RHC/MD,3,0,0.0
+glenn,SNF,1,0,0.0
+glenn,PDHRCF,1,0,0.0
+humboldt,COMTYC,39,0,0.0
+humboldt,RHC,5,0,0.0
+humboldt,SNF,5,0,0.0
+humboldt,GACH,4,0,0.0
+humboldt,RHC/OP,3,0,0.0
+humboldt,ADHC,3,0,0.0
+humboldt,UNLICEN,2,0,0.0
+humboldt,ICFDDH,2,0,0.0
+humboldt,REHABC,2,0,0.0
+humboldt,HHA,2,0,0.0
+humboldt,ASC,1,0,0.0
+humboldt,PHF,1,0,0.0
+humboldt,RHC/MD,1,0,0.0
+humboldt,ESRD/CDC,1,0,0.0
+humboldt,FREEC,1,0,0.0
+humboldt,HOFA,1,0,0.0
+humboldt,HOSPICE,1,0,0.0
+humboldt,FQHC,1,0,0.0
+imperial,COMTYC,10,0,0.0
+imperial,HHA,5,0,0.0
+imperial,RHC/OP,5,0,0.0
+imperial,HOSPICE,4,0,0.0
+imperial,ESRD/CDC,4,0,0.0
+imperial,ADHC,4,0,0.0
+imperial,ICFDDH,3,0,0.0
+imperial,SNF,3,0,0.0
+imperial,GACH,2,0,0.0
+imperial,ASC,2,0,0.0
+imperial,RHC/MD,2,0,0.0
+imperial,RHC,1,0,0.0
+imperial,FREEC,1,0,0.0
+imperial,ESRD,1,0,0.0
+imperial,CTC,1,0,0.0
+inyo,COMTYC,3,0,0.0
+inyo,FQHC,3,0,0.0
+inyo,SNF,2,0,0.0
+inyo,GACH,2,0,0.0
+inyo,RHC,2,0,0.0
+inyo,HOSPICE,1,0,0.0
+inyo,HHA,1,0,0.0
+kern,COMTYC,56,0,0.0
+kern,HHA,32,0,0.0
+kern,ASC,25,0,0.0
+kern,HOSPICE,22,0,0.0
+kern,RHC/OP,18,0,0.0
+kern,SNF,18,0,0.0
+kern,ESRD/CDC,16,0,0.0
+kern,ICFDDH,14,0,0.0
+kern,ICFDDN,13,0,0.0
+kern,GACH,13,0,0.0
+kern,RHC,11,0,0.0
+kern,UNLICEN,8,0,0.0
+kern,CLHF,8,0,0.0
+kern,ADHC,6,0,0.0
+kern,RHC/MD,5,0,0.0
+kern,FQHC/COMTYC,4,0,0.0
+kern,FREEC,3,0,0.0
+kern,CTC,3,0,0.0
+kern,APH,3,0,0.0
+kern,ASC/SURGC,2,0,0.0
+kern,ESRD,2,0,0.0
+kern,CMHC,2,0,0.0
+kern,REHABC,1,0,0.0
+kern,PDHRCF,1,0,0.0
+kern,SURGC,1,0,0.0
+kern,OPT/SP,1,0,0.0
+kern,CDC,1,0,0.0
+kern,HOFA,1,0,0.0
+kings,COMTYC,20,0,0.0
+kings,RHC/OP,7,0,0.0
+kings,SNF,3,0,0.0
+kings,ASC,3,0,0.0
+kings,ESRD/CDC,3,0,0.0
+kings,RHC,2,0,0.0
+kings,RHC/COMTYC,2,0,0.0
+kings,CTC,2,0,0.0
+kings,RHC/MD,1,0,0.0
+kings,HHA,1,0,0.0
+kings,HOSPICE,1,0,0.0
+kings,GACH,1,0,0.0
+kings,ESRD,1,0,0.0
+kings,FQHC/COMTYC,1,0,0.0
+lake,COMTYC,9,0,0.0
+lake,RHC/OP,7,0,0.0
+lake,SNF,3,0,0.0
+lake,HHA,2,0,0.0
+lake,GACH,2,0,0.0
+lake,RHC,2,0,0.0
+lake,HOSPICE,1,0,0.0
+lake,ESRD/CDC,1,0,0.0
+lake,ASC,1,0,0.0
+lake,RHC/COMTYC,1,0,0.0
+lake,FREEC,1,0,0.0
+lassen,COMTYC,4,0,0.0
+lassen,CTC,1,0,0.0
+lassen,GACH,1,0,0.0
+lassen,SNF,1,0,0.0
+lassen,ASC,1,0,0.0
+lassen,HHA,1,0,0.0
+los angeles,HHA,3009,0,0.0
+los angeles,HOSPICE,1480,0,0.0
+los angeles,COMTYC,705,0,0.0
+los angeles,SNF,373,0,0.0
+los angeles,ASC,359,0,0.0
+los angeles,ADHC,198,0,0.0
+los angeles,ESRD/CDC,193,0,0.0
+los angeles,CLHF,148,0,0.0
+los angeles,ICFDDH,145,0,0.0
+los angeles,GACH,90,0,0.0
+los angeles,ICFDDN,64,0,0.0
+los angeles,APH,43,0,0.0
+los angeles,FQHC/COMTYC,30,0,0.0
+los angeles,ESRD,24,0,0.0
+los angeles,FREEC,11,0,0.0
+los angeles,FQHC,10,0,0.0
+los angeles,PSYCHC,8,0,0.0
+los angeles,CMHC,6,0,0.0
+los angeles,OPT/SP,6,0,0.0
+los angeles,ASC/SURGC,5,0,0.0
+los angeles,ICFDD,5,0,0.0
+los angeles,REHABC/CORF,4,0,0.0
+los angeles,CDRH,4,0,0.0
+los angeles,PPSPSCH,3,0,0.0
+los angeles,TRANS,3,0,0.0
+los angeles,PDHRCF,3,0,0.0
+los angeles,CDC,2,0,0.0
+los angeles,REFRLAG,2,0,0.0
+los angeles,CTC,2,0,0.0
+los angeles,ICFDDCN,2,0,0.0
+los angeles,SURGC,1,0,0.0
+los angeles,PHF,1,0,0.0
+los angeles,RHC,1,0,0.0
+los angeles,REHABC,1,0,0.0
+los angeles,UNLICEN,1,0,0.0
+los angeles,PPSREHB,1,0,0.0
+los angeles,RHC/COMTYC,1,0,0.0
+madera,COMTYC,24,0,0.0
+madera,SNF,6,0,0.0
+madera,ICFDDN,5,0,0.0
+madera,RHC/OP,5,0,0.0
+madera,ESRD/CDC,3,0,0.0
+madera,HHA,3,0,0.0
+madera,RHC/COMTYC,2,0,0.0
+madera,GACH,2,0,0.0
+madera,RHC/MD,1,0,0.0
+madera,HOSPICE,1,0,0.0
+madera,ADHC,1,0,0.0
+madera,UNLICEN,1,0,0.0
+madera,APH,1,0,0.0
+madera,FQHC/COMTYC,1,0,0.0
+madera,ASC,1,0,0.0
+madera,PSYCHC,1,0,0.0
+madera,PDHRCF,1,0,0.0
+marin,COMTYC,24,0,0.0
+marin,SNF,12,0,0.0
+marin,HHA,9,0,0.0
+marin,ASC,7,0,0.0
+marin,UNLICEN,6,0,0.0
+marin,GACH,4,0,0.0
+marin,HOSPICE,3,0,0.0
+marin,ICFDDH,3,0,0.0
+marin,RHC,3,0,0.0
+marin,FQHC,2,0,0.0
+marin,FQHC/COMTYC,2,0,0.0
+marin,ESRD/CDC,2,0,0.0
+marin,CLHF,1,0,0.0
+marin,REHABC,1,0,0.0
+marin,FREEC,1,0,0.0
+marin,CDC,1,0,0.0
+marin,CTC,1,0,0.0
+marin,APH,1,0,0.0
+marin,OPT/SP,1,0,0.0
+mariposa,COMTYC,4,0,0.0
+mariposa,RHC/OP,3,0,0.0
+mariposa,SNF,1,0,0.0
+mariposa,GACH,1,0,0.0
+mendocino,COMTYC,23,0,0.0
+mendocino,RHC/OP,5,0,0.0
+mendocino,HHA,4,0,0.0
+mendocino,SNF,4,0,0.0
+mendocino,GACH,3,0,0.0
+mendocino,ESRD/CDC,2,0,0.0
+mendocino,HOSPICE,1,0,0.0
+mendocino,FREEC,1,0,0.0
+mendocino,FQHC/COMTYC,1,0,0.0
+mendocino,RHC/MD,1,0,0.0
+mendocino,RHC,1,0,0.0
+mendocino,UNLICEN,1,0,0.0
+merced,COMTYC,14,0,0.0
+merced,SNF,10,0,0.0
+merced,RHC/COMTYC,7,0,0.0
+merced,ICFDDN,7,0,0.0
+merced,ESRD/CDC,7,0,0.0
+merced,FQHC/COMTYC,6,0,0.0
+merced,RHC,6,0,0.0
+merced,RHC/OP,4,0,0.0
+merced,ASC,3,0,0.0
+merced,ICFDDH,3,0,0.0
+merced,HHA,2,0,0.0
+merced,ADHC,2,0,0.0
+merced,HOSPICE,2,0,0.0
+merced,ASC/SURGC,2,0,0.0
+merced,RHC/MD,2,0,0.0
+merced,GACH,2,0,0.0
+merced,CLHF,1,0,0.0
+merced,ESRD,1,0,0.0
+merced,UNLICEN,1,0,0.0
+merced,PDHRCF,1,0,0.0
+modoc,RHC/OP,3,0,0.0
+modoc,GACH,2,0,0.0
+modoc,SNF,2,0,0.0
+modoc,RHC/MD,1,0,0.0
+mono,RHC,2,0,0.0
+mono,GACH,1,0,0.0
+mono,FQHC,1,0,0.0
+monterey,COMTYC,31,0,0.0
+monterey,SNF,15,0,0.0
+monterey,HHA,13,0,0.0
+monterey,FQHC,13,0,0.0
+monterey,ASC,8,0,0.0
+monterey,ESRD/CDC,6,0,0.0
+monterey,HOSPICE,5,0,0.0
+monterey,GACH,4,0,0.0
+monterey,RHC/OP,3,0,0.0
+monterey,RHC,2,0,0.0
+monterey,UNLICEN,2,0,0.0
+monterey,ESRD,2,0,0.0
+monterey,APH,2,0,0.0
+monterey,ICFDDH,2,0,0.0
+monterey,RHC/COMTYC,1,0,0.0
+monterey,CLHF,1,0,0.0
+monterey,FREEC,1,0,0.0
+monterey,FQHC/COMTYC,1,0,0.0
+monterey,ADHC,1,0,0.0
+monterey,CTC,1,0,0.0
+napa,COMTYC,8,0,0.0
+napa,HHA,6,0,0.0
+napa,SNF,6,0,0.0
+napa,ASC,6,0,0.0
+napa,HOSPICE,4,0,0.0
+napa,ESRD/CDC,3,0,0.0
+napa,REHABC,2,0,0.0
+napa,ICF,2,0,0.0
+napa,GACH,2,0,0.0
+napa,APH,1,0,0.0
+napa,ESRD,1,0,0.0
+napa,FREEC,1,0,0.0
+napa,UNLICEN,1,0,0.0
+napa,ICFDDH,1,0,0.0
+napa,ADHC,1,0,0.0
+nevada,COMTYC,11,0,0.0
+nevada,SNF,5,0,0.0
+nevada,ASC,4,0,0.0
+nevada,RHC/OP,3,0,0.0
+nevada,HOSPICE,2,0,0.0
+nevada,GACH,2,0,0.0
+nevada,HHA,1,0,0.0
+nevada,PDHRCF,1,0,0.0
+nevada,FREEC,1,0,0.0
+nevada,ESRD/CDC,1,0,0.0
+nevada,FQHC/COMTYC,1,0,0.0
+orange,COMTYC,169,0,0.0
+orange,HHA,164,0,0.0
+orange,HOSPICE,158,0,0.0
+orange,ASC,103,0,0.0
+orange,SNF,73,0,0.0
+orange,ICFDDH,66,0,0.0
+orange,ESRD/CDC,49,0,0.0
+orange,ICFDDN,41,0,0.0
+orange,GACH,37,0,0.0
+orange,ADHC,31,0,0.0
+orange,APH,12,0,0.0
+orange,FQHC/COMTYC,12,0,0.0
+orange,CLHF,10,0,0.0
+orange,PPSPSCH,7,0,0.0
+orange,OPT/SP,7,0,0.0
+orange,ESRD,6,0,0.0
+orange,FQHC,4,0,0.0
+orange,FREEC,3,0,0.0
+orange,PPSREHB,3,0,0.0
+orange,TRANS,2,0,0.0
+orange,CMHC,2,0,0.0
+orange,CDRH,1,0,0.0
+orange,PSYCHC,1,0,0.0
+orange,HOFA,1,0,0.0
+orange,REFRLAG,1,0,0.0
+orange,ASC/SURGC,1,0,0.0
+placer,HHA,15,0,0.0
+placer,COMTYC,10,0,0.0
+placer,SNF,10,0,0.0
+placer,HOSPICE,9,0,0.0
+placer,ASC,8,0,0.0
+placer,ESRD/CDC,5,0,0.0
+placer,GACH,3,0,0.0
+placer,CLHF,3,0,0.0
+placer,RHC/COMTYC,2,0,0.0
+placer,PDHRCF,2,0,0.0
+placer,OPT/SP,2,0,0.0
+placer,ICFDDN,1,0,0.0
+placer,RHC/MD,1,0,0.0
+placer,ESRD,1,0,0.0
+placer,FQHC,1,0,0.0
+placer,ABC,1,0,0.0
+plumas,RHC/OP,5,0,0.0
+plumas,GACH,3,0,0.0
+plumas,SNF,3,0,0.0
+plumas,COMTYC,1,0,0.0
+plumas,HHA,1,0,0.0
+riverside,COMTYC,102,0,0.0
+riverside,HOSPICE,90,0,0.0
+riverside,HHA,88,0,0.0
+riverside,SNF,55,0,0.0
+riverside,ASC,51,0,0.0
+riverside,ICFDDH,50,0,0.0
+riverside,ESRD/CDC,33,0,0.0
+riverside,ICFDDN,22,0,0.0
+riverside,GACH,21,0,0.0
+riverside,CLHF,20,0,0.0
+riverside,ASC/SURGC,13,0,0.0
+riverside,UNLICEN,8,0,0.0
+riverside,ADHC,8,0,0.0
+riverside,FQHC,7,0,0.0
+riverside,ESRD,6,0,0.0
+riverside,FQHC/COMTYC,6,0,0.0
+riverside,OPT/SP,5,0,0.0
+riverside,APH,4,0,0.0
+riverside,FREEC,3,0,0.0
+riverside,RHC,2,0,0.0
+riverside,CTC,1,0,0.0
+riverside,ABC,1,0,0.0
+riverside,ICFDDCN,1,0,0.0
+riverside,ICFDD,1,0,0.0
+riverside,CDRH,1,0,0.0
+riverside,CDC,1,0,0.0
+riverside,TRANS,1,0,0.0
+riverside,PSYCHC,1,0,0.0
+riverside,CMHC,1,0,0.0
+sacramento,HHA,95,0,0.0
+sacramento,COMTYC,70,0,0.0
+sacramento,HOSPICE,41,0,0.0
+sacramento,SNF,36,0,0.0
+sacramento,ESRD/CDC,29,0,0.0
+sacramento,ASC,18,0,0.0
+sacramento,ICFDDH,12,0,0.0
+sacramento,GACH,12,0,0.0
+sacramento,ICFDDN,11,0,0.0
+sacramento,ESRD,5,0,0.0
+sacramento,FQHC/COMTYC,5,0,0.0
+sacramento,ADHC,5,0,0.0
+sacramento,CLHF,5,0,0.0
+sacramento,APH,4,0,0.0
+sacramento,OPT/SP,4,0,0.0
+sacramento,TRANS,3,0,0.0
+sacramento,PDHRCF,2,0,0.0
+sacramento,FREEC,2,0,0.0
+sacramento,FQHC,2,0,0.0
+sacramento,RHC/OP,1,0,0.0
+sacramento,CDRH,1,0,0.0
+sacramento,UNLICEN,1,0,0.0
+sacramento,CTC,1,0,0.0
+san benito,RHC/OP,6,0,0.0
+san benito,SNF,2,0,0.0
+san benito,COMTYC,2,0,0.0
+san benito,GACH,1,0,0.0
+san benito,ESRD/CDC,1,0,0.0
+san benito,HHA,1,0,0.0
+san bernardino,HOSPICE,189,0,0.0
+san bernardino,HHA,157,0,0.0
+san bernardino,COMTYC,77,0,0.0
+san bernardino,SNF,55,0,0.0
+san bernardino,ICFDDH,53,0,0.0
+san bernardino,ICFDDN,37,0,0.0
+san bernardino,ASC,36,0,0.0
+san bernardino,ESRD/CDC,35,0,0.0
+san bernardino,GACH,25,0,0.0
+san bernardino,CLHF,16,0,0.0
+san bernardino,ADHC,11,0,0.0
+san bernardino,FQHC,10,0,0.0
+san bernardino,ESRD,10,0,0.0
+san bernardino,RHC,8,0,0.0
+san bernardino,APH,5,0,0.0
+san bernardino,RHC/OP,4,0,0.0
+san bernardino,FQHC/COMTYC,3,0,0.0
+san bernardino,ASC/SURGC,3,0,0.0
+san bernardino,ICF,3,0,0.0
+san bernardino,OPT/SP,2,0,0.0
+san bernardino,FREEC,2,0,0.0
+san bernardino,PPSREHB,1,0,0.0
+san bernardino,REHABC,1,0,0.0
+san bernardino,TRANS,1,0,0.0
+san bernardino,CDC,1,0,0.0
+san bernardino,HOFA,1,0,0.0
+san diego,COMTYC,257,0,0.0
+san diego,HHA,113,0,0.0
+san diego,HOSPICE,89,0,0.0
+san diego,SNF,84,0,0.0
+san diego,ICFDDH,71,0,0.0
+san diego,ASC,53,0,0.0
+san diego,ESRD/CDC,36,0,0.0
+san diego,UNLICEN,25,0,0.0
+san diego,GACH,24,0,0.0
+san diego,OPT/SP,20,0,0.0
+san diego,ICFDDN,20,0,0.0
+san diego,ADHC,18,0,0.0
+san diego,FQHC/COMTYC,15,0,0.0
+san diego,APH,11,0,0.0
+san diego,FREEC,11,0,0.0
+san diego,FQHC,7,0,0.0
+san diego,ESRD,7,0,0.0
+san diego,PPSPSCH,6,0,0.0
+san diego,CLHF,5,0,0.0
+san diego,HOFA,4,0,0.0
+san diego,TRANS,3,0,0.0
+san diego,PPSREHB,3,0,0.0
+san diego,PDHRCF,2,0,0.0
+san diego,CDRH,2,0,0.0
+san diego,RHC,1,0,0.0
+san diego,REHABC/CORF,1,0,0.0
+san diego,ASC/SURGC,1,0,0.0
+san diego,ICFDD,1,0,0.0
+san diego,CTC,1,0,0.0
+san diego,CDC,1,0,0.0
+san diego,CMHC,1,0,0.0
+san francisco,COMTYC,61,0,0.0
+san francisco,UNLICEN,24,0,0.0
+san francisco,SNF,17,0,0.0
+san francisco,ADHC,13,0,0.0
+san francisco,GACH,13,0,0.0
+san francisco,HHA,12,0,0.0
+san francisco,ASC,12,0,0.0
+san francisco,HOSPICE,9,0,0.0
+san francisco,ESRD/CDC,8,0,0.0
+san francisco,APH,7,0,0.0
+san francisco,ESRD,5,0,0.0
+san francisco,FREEC,4,0,0.0
+san francisco,TRANS,4,0,0.0
+san francisco,FQHC,2,0,0.0
+san francisco,REFRLAG,1,0,0.0
+san francisco,ABC,1,0,0.0
+san francisco,FQHC/COMTYC,1,0,0.0
+san joaquin,COMTYC,56,0,0.0
+san joaquin,HHA,25,0,0.0
+san joaquin,SNF,24,0,0.0
+san joaquin,ICFDDH,19,0,0.0
+san joaquin,ICFDDN,17,0,0.0
+san joaquin,ESRD/CDC,15,0,0.0
+san joaquin,ASC,9,0,0.0
+san joaquin,HOSPICE,9,0,0.0
+san joaquin,GACH,8,0,0.0
+san joaquin,FQHC,8,0,0.0
+san joaquin,ESRD,5,0,0.0
+san joaquin,OPT/SP,3,0,0.0
+san joaquin,FREEC,3,0,0.0
+san joaquin,CLHF,2,0,0.0
+san joaquin,ASC/SURGC,2,0,0.0
+san joaquin,PDHRCF,1,0,0.0
+san joaquin,HOFA,1,0,0.0
+san joaquin,APH,1,0,0.0
+san joaquin,RHC/MD,1,0,0.0
+san joaquin,RHC/OP,1,0,0.0
+san joaquin,CTC,1,0,0.0
+san joaquin,CDC,1,0,0.0
+san luis obispo,COMTYC,57,0,0.0
+san luis obispo,ASC,17,0,0.0
+san luis obispo,HHA,13,0,0.0
+san luis obispo,ICFDDH,7,0,0.0
+san luis obispo,SNF,7,0,0.0
+san luis obispo,HOSPICE,5,0,0.0
+san luis obispo,GACH,4,0,0.0
+san luis obispo,ESRD/CDC,3,0,0.0
+san luis obispo,ICFDDN,2,0,0.0
+san luis obispo,ICFDD,1,0,0.0
+san luis obispo,OPT/SP,1,0,0.0
+san luis obispo,APH,1,0,0.0
+san luis obispo,ICF,1,0,0.0
+san luis obispo,CTC,1,0,0.0
+san luis obispo,ESRD,1,0,0.0
+san luis obispo,RHC,1,0,0.0
+san luis obispo,FQHC,1,0,0.0
+san luis obispo,FREEC,1,0,0.0
+san mateo,HHA,31,0,0.0
+san mateo,ICFDDH,21,0,0.0
+san mateo,SNF,16,0,0.0
+san mateo,HOSPICE,16,0,0.0
+san mateo,ASC,15,0,0.0
+san mateo,COMTYC,13,0,0.0
+san mateo,ESRD/CDC,11,0,0.0
+san mateo,ICFDDN,9,0,0.0
+san mateo,UNLICEN,9,0,0.0
+san mateo,GACH,7,0,0.0
+san mateo,FQHC,7,0,0.0
+san mateo,FREEC,4,0,0.0
+san mateo,ADHC,3,0,0.0
+san mateo,ESRD,3,0,0.0
+san mateo,APH,3,0,0.0
+san mateo,OPT/SP,1,0,0.0
+san mateo,CLHF,1,0,0.0
+san mateo,ASC/SURGC,1,0,0.0
+santa barbara,COMTYC,44,0,0.0
+santa barbara,ASC,18,0,0.0
+santa barbara,SNF,14,0,0.0
+santa barbara,HHA,11,0,0.0
+santa barbara,FQHC,10,0,0.0
+santa barbara,HOSPICE,9,0,0.0
+santa barbara,ICFDDH,6,0,0.0
+santa barbara,GACH,6,0,0.0
+santa barbara,ESRD/CDC,5,0,0.0
+santa barbara,UNLICEN,1,0,0.0
+santa barbara,OPT/SP,1,0,0.0
+santa barbara,ICFDDN,1,0,0.0
+santa barbara,RHC,1,0,0.0
+santa barbara,ADHC,1,0,0.0
+santa barbara,ASC/SURGC,1,0,0.0
+santa barbara,ESRD,1,0,0.0
+santa barbara,ICFDD,1,0,0.0
+santa barbara,PHF,1,0,0.0
+santa barbara,HOFA,1,0,0.0
+santa barbara,FREEC,1,0,0.0
+santa barbara,APH,1,0,0.0
+santa barbara,CLHF,1,0,0.0
+santa barbara,FQHC/COMTYC,1,0,0.0
+santa clara,COMTYC,67,0,0.0
+santa clara,HHA,54,0,0.0
+santa clara,SNF,52,0,0.0
+santa clara,ASC,29,0,0.0
+santa clara,ICFDDN,24,0,0.0
+santa clara,FQHC,22,0,0.0
+santa clara,ESRD/CDC,22,0,0.0
+santa clara,HOSPICE,16,0,0.0
+santa clara,GACH,14,0,0.0
+santa clara,ESRD,10,0,0.0
+santa clara,ADHC,9,0,0.0
+santa clara,ICFDDH,9,0,0.0
+santa clara,ASC/SURGC,7,0,0.0
+santa clara,APH,5,0,0.0
+santa clara,UNLICEN,4,0,0.0
+santa clara,PDHRCF,3,0,0.0
+santa clara,FREEC,3,0,0.0
+santa clara,TRANS,2,0,0.0
+santa clara,PSYCHC,2,0,0.0
+santa clara,CLHF,1,0,0.0
+santa clara,PHF,1,0,0.0
+santa clara,OPT/SP,1,0,0.0
+santa clara,ICFDDCN,1,0,0.0
+santa clara,FQHC/COMTYC,1,0,0.0
+santa cruz,COMTYC,31,0,0.0
+santa cruz,SNF,7,0,0.0
+santa cruz,ASC,5,0,0.0
+santa cruz,FQHC,3,0,0.0
+santa cruz,ESRD/CDC,3,0,0.0
+santa cruz,GACH,3,0,0.0
+santa cruz,HOSPICE,3,0,0.0
+santa cruz,HHA,2,0,0.0
+santa cruz,UNLICEN,1,0,0.0
+santa cruz,ESRD,1,0,0.0
+santa cruz,FREEC,1,0,0.0
+santa cruz,ADHC,1,0,0.0
+santa cruz,PHF,1,0,0.0
+shasta,COMTYC,19,0,0.0
+shasta,SNF,10,0,0.0
+shasta,HHA,9,0,0.0
+shasta,ASC,7,0,0.0
+shasta,ICFDDN,6,0,0.0
+shasta,GACH,5,0,0.0
+shasta,HOSPICE,4,0,0.0
+shasta,ICFDDH,4,0,0.0
+shasta,FQHC,3,0,0.0
+shasta,PDHRCF,3,0,0.0
+shasta,ESRD/CDC,2,0,0.0
+shasta,RHC/OP,2,0,0.0
+shasta,FQHC/COMTYC,2,0,0.0
+shasta,RHC/MD,2,0,0.0
+shasta,FREEC,2,0,0.0
+shasta,RHC/COMTYC,1,0,0.0
+shasta,PPSPSCH,1,0,0.0
+shasta,ADHC,1,0,0.0
+sierra,COMTYC,2,0,0.0
+sierra,SNF,1,0,0.0
+sierra,RHC/OP,1,0,0.0
+siskiyou,COMTYC,7,0,0.0
+siskiyou,RHC/OP,5,0,0.0
+siskiyou,HOSPICE,3,0,0.0
+siskiyou,FQHC/COMTYC,2,0,0.0
+siskiyou,GACH,2,0,0.0
+siskiyou,SNF,1,0,0.0
+siskiyou,CLHF,1,0,0.0
+siskiyou,RHC/MD,1,0,0.0
+solano,HHA,15,0,0.0
+solano,COMTYC,15,0,0.0
+solano,ESRD/CDC,10,0,0.0
+solano,HOSPICE,10,0,0.0
+solano,ICFDDH,10,0,0.0
+solano,SNF,9,0,0.0
+solano,FQHC,9,0,0.0
+solano,ICFDDN,6,0,0.0
+solano,GACH,5,0,0.0
+solano,ESRD,4,0,0.0
+solano,OPT/SP,3,0,0.0
+solano,UNLICEN,3,0,0.0
+solano,ASC,3,0,0.0
+solano,CTC,2,0,0.0
+solano,ADHC,1,0,0.0
+solano,ASC/SURGC,1,0,0.0
+solano,APH,1,0,0.0
+solano,FQHC/COMTYC,1,0,0.0
+solano,CLHF,1,0,0.0
+sonoma,COMTYC,44,0,0.0
+sonoma,SNF,19,0,0.0
+sonoma,HHA,11,0,0.0
+sonoma,ASC,9,0,0.0
+sonoma,GACH,8,0,0.0
+sonoma,FQHC/COMTYC,7,0,0.0
+sonoma,ICFDDH,7,0,0.0
+sonoma,HOSPICE,7,0,0.0
+sonoma,ESRD/CDC,5,0,0.0
+sonoma,ICFDDN,4,0,0.0
+sonoma,FQHC,4,0,0.0
+sonoma,PSYCHC,2,0,0.0
+sonoma,REHABC,2,0,0.0
+sonoma,ASC/SURGC,1,0,0.0
+sonoma,OPT/SP,1,0,0.0
+sonoma,ESRD,1,0,0.0
+sonoma,APH,1,0,0.0
+sonoma,FREEC,1,0,0.0
+stanislaus,COMTYC,44,0,0.0
+stanislaus,HHA,18,0,0.0
+stanislaus,SNF,17,0,0.0
+stanislaus,ESRD/CDC,15,0,0.0
+stanislaus,ASC,12,0,0.0
+stanislaus,HOSPICE,9,0,0.0
+stanislaus,GACH,7,0,0.0
+stanislaus,RHC/MD,5,0,0.0
+stanislaus,RHC,5,0,0.0
+stanislaus,CLHF,4,0,0.0
+stanislaus,FQHC,3,0,0.0
+stanislaus,RHC/OP,3,0,0.0
+stanislaus,ESRD,2,0,0.0
+stanislaus,OPT/SP,1,0,0.0
+stanislaus,PDHRCF,1,0,0.0
+stanislaus,ICFDDH,1,0,0.0
+stanislaus,ADHC,1,0,0.0
+stanislaus,HOFA,1,0,0.0
+stanislaus,SURGC,1,0,0.0
+stanislaus,APH,1,0,0.0
+stanislaus,FQHC/COMTYC,1,0,0.0
+sutter,COMTYC,11,0,0.0
+sutter,HOSPICE,4,0,0.0
+sutter,HHA,4,0,0.0
+sutter,ICFDDN,4,0,0.0
+sutter,SNF,4,0,0.0
+sutter,ASC,2,0,0.0
+sutter,ESRD/CDC,2,0,0.0
+sutter,GACH,1,0,0.0
+sutter,PDHRCF,1,0,0.0
+sutter,FQHC/COMTYC,1,0,0.0
+tehama,RHC/OP,5,0,0.0
+tehama,COMTYC,2,0,0.0
+tehama,FQHC,2,0,0.0
+tehama,HOSPICE,2,0,0.0
+tehama,SNF,2,0,0.0
+tehama,GACH,1,0,0.0
+tehama,RHC/MD,1,0,0.0
+tehama,ESRD/CDC,1,0,0.0
+tehama,HHA,1,0,0.0
+tehama,RHC,1,0,0.0
+tehama,PDHRCF,1,0,0.0
+trinity,COMTYC,3,0,0.0
+trinity,RHC/OP,2,0,0.0
+trinity,GACH,1,0,0.0
+trinity,FQHC,1,0,0.0
+trinity,SNF,1,0,0.0
+tulare,COMTYC,63,0,0.0
+tulare,SNF,17,0,0.0
+tulare,ICFDDN,17,0,0.0
+tulare,RHC/OP,13,0,0.0
+tulare,RHC/MD,11,0,0.0
+tulare,ESRD/CDC,8,0,0.0
+tulare,ASC,7,0,0.0
+tulare,HOSPICE,6,0,0.0
+tulare,RHC,5,0,0.0
+tulare,HHA,4,0,0.0
+tulare,GACH,4,0,0.0
+tulare,ASC/SURGC,3,0,0.0
+tulare,ICFDD,3,0,0.0
+tulare,CLHF,2,0,0.0
+tulare,UNLICEN,2,0,0.0
+tulare,FQHC/COMTYC,2,0,0.0
+tulare,APH,1,0,0.0
+tulare,ESRD,1,0,0.0
+tulare,ICFDDH,1,0,0.0
+tulare,ADHC,1,0,0.0
+tuolumne,COMTYC,6,0,0.0
+tuolumne,FQHC/COMTYC,4,0,0.0
+tuolumne,SNF,3,0,0.0
+tuolumne,GACH,2,0,0.0
+tuolumne,RHC/OP,1,0,0.0
+tuolumne,FQHC,1,0,0.0
+tuolumne,ASC,1,0,0.0
+tuolumne,HOSPICE,1,0,0.0
+tuolumne,HHA,1,0,0.0
+tuolumne,ESRD/CDC,1,0,0.0
+tuolumne,ABC,1,0,0.0
+ventura,HHA,110,0,0.0
+ventura,HOSPICE,80,0,0.0
+ventura,ASC,39,0,0.0
+ventura,COMTYC,30,0,0.0
+ventura,CLHF,20,0,0.0
+ventura,FQHC,20,0,0.0
+ventura,SNF,19,0,0.0
+ventura,ICFDDH,19,0,0.0
+ventura,ESRD/CDC,16,0,0.0
+ventura,ICFDDN,11,0,0.0
+ventura,GACH,10,0,0.0
+ventura,FREEC,5,0,0.0
+ventura,ADHC,5,0,0.0
+ventura,RHC/OP,3,0,0.0
+ventura,OPT/SP,2,0,0.0
+ventura,APH,2,0,0.0
+ventura,RHC,2,0,0.0
+ventura,CMHC,1,0,0.0
+ventura,CDC,1,0,0.0
+ventura,REHABC,1,0,0.0
+ventura,ESRD,1,0,0.0
+yolo,COMTYC,23,0,0.0
+yolo,SNF,6,0,0.0
+yolo,ICFDDN,6,0,0.0
+yolo,GACH,2,0,0.0
+yolo,ADHC,2,0,0.0
+yolo,ESRD/CDC,2,0,0.0
+yolo,OPT/SP,1,0,0.0
+yolo,HHA,1,0,0.0
+yolo,HOSPICE,1,0,0.0
+yolo,ICFDDH,1,0,0.0
+yolo,CLHF,1,0,0.0
+yolo,APH,1,0,0.0
+yuba,COMTYC,11,0,0.0
+yuba,GACH,1,0,0.0
+yuba,RHC/MD,1,0,0.0
+yuba,HHA,1,0,0.0
+yuba,RHC,1,0,0.0
+yuba,ABC,1,0,0.0
+yuba,HOSPICE,1,0,0.0
+yuba,FQHC/COMTYC,1,0,0.0
+yuba,ESRD/CDC,1,0,0.0
+yuba,SNF,1,0,0.0
+yuba,FQHC,1,0,0.0
+yuba,RHC/COMTYC,1,0,0.0
+yuba,PDHRCF,1,0,0.0

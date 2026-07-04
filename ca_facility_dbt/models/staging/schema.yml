@@ -1,0 +1,36 @@
+version: 2
+
+models:
+  - name: stg_facilities
+    description: "Cleaned and standardized California healthcare facilities"
+    columns:
+      - name: facility_id
+        description: "Unique facility identifier"
+        tests:
+          - not_null
+          - unique
+
+      - name: facility_name
+        description: "Name of the facility"
+        tests:
+          - not_null
+
+      - name: county
+        description: "County name in lowercase"
+        tests:
+          - not_null
+
+      - name: license_status
+        description: "Licensed or certified status"
+        tests:
+          - not_null
+
+  - name: mart_facility_access
+    description: "Facility counts and compliance rates by county and type"
+    columns:
+      - name: county
+        tests:
+          - not_null
+      - name: total_facilities
+        tests:
+          - not_null
